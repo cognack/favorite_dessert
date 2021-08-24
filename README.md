@@ -1,5 +1,5 @@
 # Favorite Dessert
 
- - Steven: applie pie
+ - Steven: pumpkin pie
 
  - Alex: chocolate cake
