@@ -4,4 +4,4 @@
 
  - Alex: chocolate cake
 
- - Steven1: applie pie
+ - Steven1: apple pie
